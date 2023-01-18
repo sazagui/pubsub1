@@ -49,7 +49,7 @@
                 <releaseGoals>
                     <releaseGoal>install</releaseGoal>
                 </releaseGoals>
-                <privateKey>/Users/anfanesaoussane/.ssh/id_rsa</privateKey>
+                <privateKey>/Users/anfanesaoussane/.ssh/maven_test</privateKey>
             </configuration>
         </plugin>
 
